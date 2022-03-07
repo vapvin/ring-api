@@ -1,0 +1,2 @@
+[global.databases]
+ring_db = {url = "postgres://ring:ansgusrb0712@127.0.0.1/ring"}
